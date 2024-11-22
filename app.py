@@ -47,5 +47,5 @@ def main():
         response=prediction(input_list)
         st.success(response)
 
-if __name__ == '__main__'
+if __name__ == '__main__':
    main()
