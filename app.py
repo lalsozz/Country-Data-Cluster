@@ -12,7 +12,7 @@ with open('pca.pkl','rb') as file:
   model = pickle.load(file)
     
 with open('scaler.pkl','rb') as file:
-  model = pickle.load(file
+  model = pickle.load(file)
 
 def prediction(input_data):
 
